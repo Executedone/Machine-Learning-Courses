@@ -1,2 +1,2 @@
-'Data' for exercise datasets
-'code' for ipynb codes
+'code' 
+all exerises were completed with python and numpy 
